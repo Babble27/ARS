@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidRuderScan</string>
+    <string name="cameraButton">Scan!</string>
+</resources>
